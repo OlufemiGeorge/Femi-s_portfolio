@@ -1,3 +1,3 @@
-# Femi-s_portfolio
+# Health care patient waiting ist
 Analytics Portfolio
-![](Dashboard.png)
+![](GifDash.gif)
